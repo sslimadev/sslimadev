@@ -1,10 +1,10 @@
 ## Olá pessoal! Sou a Simone Lima👋
 
 - 🔭 Estou estudando tudo sobre as linguagens abaixo:  
-- 🌱 E aprendendo HTML, CSS, JavaScript, React e React Native.
+- 🌱 HTML, CSS, JavaScript, React e React Native.
   
 - 🔭 I’m currently studying all about this languages down:
-- 🌱 And learning HTML, CSS, JavaScript, React and React Native.
+- 🌱 HTML, CSS, JavaScript, React and React Native.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
