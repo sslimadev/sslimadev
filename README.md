@@ -15,10 +15,10 @@
 
 ##
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sslimadev&show_icons=true&theme=dracula&include_all-commits=true&count_provate=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sslimadev&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+</p>
  
 <div> 
   <a href="https://www.linkedin.com/in/simone-s-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
